@@ -1,16 +1,12 @@
-### Hi there 👋
+### ./lifecats report
 
-<!--
-**lifecats/lifecats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Drinks too much coffee
+- Works mostly at night/morning
+- Loves js and not uses python
+- Not read books, only documentation
+- Works on websites and api's
+- Interested in woking with other people
+- Trying to crack school's web journal
+- Want's macbook, but uses linux on asus
+- Not likes use shift 
+- Sometimes stream on twich and films video for youtube
