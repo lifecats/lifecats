@@ -9,3 +9,4 @@
 - Want's macbook, but uses windows 10 on asus
 - Not likes use shift 
 - Sometimes stream on twich and films video for youtube
+- 13 years old
