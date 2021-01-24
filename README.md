@@ -2,11 +2,10 @@
 
 - Drinks too much coffee
 - Works mostly at night/morning
-- Loves js and not uses python
+- Loves js 
 - Not read books, only documentation
 - Works on websites and api's
 - Interested in woking with other people
-- Want's macbook, but uses windows 10 on asus
-- Not likes use shift 
-- Sometimes stream on twich and films video for youtube
+- Want's macbook, but uses Linux on asus
+- Sometimes writes some lofi
 - 13 years old
