@@ -6,4 +6,4 @@
 - Doesn't read books, fuck 'em.
 - Works on websites and api's
 - Sometimes writes some lofi (lifecats one every streaming platform)
-- 13 years old
+- 14 years old
